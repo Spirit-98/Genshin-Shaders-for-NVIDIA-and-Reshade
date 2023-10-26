@@ -28,6 +28,13 @@ You could also use the filters I made and worked hard on for 1+ years
 
 To update the game to a newer verison: rename eurotrucks2_data and eurotrucks2.exe BACK to GenshinImpact_data and GenshinImpact.exe respectively.
 
+Want to create your own preset?
+Download NvCameraConfiguration_v1.0.0.6.exe
+Check the box that says 'Save preset with shot' hit save
+goto your Genshinimpact, hit ALT-F2 to bring up the photo taking
+put the preset settings you want, and click snap, itll save the preset to your Videos/Euro Trucks Simulator 2 folder
+drag the config file to Ansel to use it
+
 
 IF THE FILTERS STOP WORKING/game filters doesnt work anymore/Isnt showing up when you hit ALT-F3:
 rename last used .ini config file for filters (will force stop them from automatically being on the next time) - THIS STEP WILL FIX THE PROBLEM almost 100% of the time
